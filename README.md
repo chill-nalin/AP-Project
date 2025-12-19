@@ -350,3 +350,7 @@ public class PasswordHasher {
 6. Mockito Documentation. https://site.mockito.org/
 7. MySQL Reference Manual. https://dev.mysql.com/doc/
 8. SLF4J Manual. http://www.slf4j.org/manual.html
+
+## 📧 Contact
+**Nalin Gupta** | CSE + Applied Math | IIIT Delhi  
+📧 nalin24362@iiitd.ac.in | 💼 [LinkedIn](www.linkedin.com/in/-nalin-gupta)
