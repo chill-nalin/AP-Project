@@ -1,11 +1,9 @@
 # AP Project
 ## University ERP System
 
-**Authors:** Nalin Gupta, Tanish Jindal
-**Roll Numbers:** 2024362, 2024579
+**Authors:** Nalin Gupta, Tanish Jindal <br>
+**Roll Numbers:** 2024362, 2024579 <br>
 **Course:** CSE201: Advanced Programming
-
----
 
 ## Introduction
 
@@ -30,8 +28,6 @@ The University ERP System is a desktop application designed to streamline academ
 - **Password Hashing**: jBCrypt
 - **Logging**: SLF4J with Logback
 - **Testing**: JUnit 5 with Mockito
-
----
 
 ## Compilation and Execution
 
