@@ -1,8 +1,8 @@
-# AP Project Report
+# AP Project
 ## University ERP System
 
-**Authors:** Nalin Gupta, Tanish Jindal  
-**Roll Numbers:** 2024362, 2024579  
+**Authors:** Nalin Gupta, Tanish Jindal
+**Roll Numbers:** 2024362, 2024579
 **Course:** CSE201: Advanced Programming
 
 ---
